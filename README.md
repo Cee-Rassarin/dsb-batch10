@@ -12,5 +12,5 @@ My data science and analytics project
 
 # Contact ME
 reach out to me at rassarin282@gmail.com
-
+image link jpg only
 ![Doreamon](https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png)
